@@ -240,7 +240,7 @@ if(data.weather[0].main == "Clouds"){
 
 ---
 
----
+
 
 ## 📸 Screenshot
 <img width="1294" height="557" alt="image" src="https://github.com/user-attachments/assets/607996ec-ffdb-4f59-9b74-9df5fc22a53e" />
