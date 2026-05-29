@@ -1,6 +1,6 @@
 # 🌤️ Real-Time Weather App
 
-A beautiful, responsive real-time weather application built with vanilla **JavaScript**, **HTML5**, and **CSS3**. Get instant weather updates for any city in the world with an intuitive and modern user interface.
+A beautiful, real-time weather application built with vanilla **JavaScript**, **HTML5**, and **CSS3**. Get instant weather updates for any city in the world with an intuitive and modern user interface.
 
 ---
 
@@ -12,7 +12,6 @@ A beautiful, responsive real-time weather application built with vanilla **JavaS
 - 🌪️ **Wind Speed** - Displays wind speed in km/h
 - 🎨 **Dynamic Weather Icons** - Changes based on weather conditions (Clouds, Clear, Rain, Drizzle, Mist)
 - ❌ **Error Handling** - Validates city names and shows error messages for invalid inputs
-- 📱 **Fully Responsive** - Works seamlessly on desktop, tablet, and mobile devices
 - 🎯 **Modern UI/UX** - Beautiful gradient design with smooth interactions
 
 ---
@@ -203,14 +202,6 @@ if(data.weather[0].main == "Clouds"){
 // ... more conditions for different weather types
 ```
 
-### **Responsive Breakdown**
-
-| Screen Size | Adjustment |
-|------------|-----------|
-| Mobile (<480px) | 90% width, adjusted padding |
-| Tablet (480-768px) | Flexible card width |
-| Desktop (>768px) | Maximum 470px width, centered |
-
 ---
 
 ## 🔐 Security Notes
@@ -234,16 +225,6 @@ if(data.weather[0].main == "Clouds"){
 
 ---
 
-## 📱 Responsive Breakpoints
-
-```css
-/* Mobile First Approach */
-max-width: 470px  /* Main card container */
-90% width         /* Full-screen adaptation */
-60px height       /* Touch-friendly inputs */
-```
-
----
 
 ## 🎨 Color Palette
 
@@ -266,22 +247,12 @@ max-width: 470px  /* Main card container */
 
 ---
 
-## 🤝 Contributing
-
-Feel free to fork this project and submit pull requests with improvements!
-
-### **Improvement Ideas**:
-- Performance optimization
-- Additional weather details
-- Better mobile responsiveness
-- Accessibility improvements
-- Unit tests
-
 ---
 
-## 📄 License
+## 📸 Screenshot
+<img width="1294" height="557" alt="image" src="https://github.com/user-attachments/assets/607996ec-ffdb-4f59-9b74-9df5fc22a53e" />
 
-This project is open source and available for personal and educational use.
+
 
 ---
 
@@ -289,20 +260,6 @@ This project is open source and available for personal and educational use.
 
 **Rudra Prakash**
 - GitHub: [@rudra610prakash-code](https://github.com/rudra610prakash-code)
-- Project: [Real-Time Weather App](https://github.com/rudra610prakash-code/real-time-weather)
+
 
 ---
-
-## ⭐ Show Your Support
-
-If you find this project helpful, please give it a star! ⭐
-
----
-
-## 📞 Support
-
-For issues or questions, please open an issue on GitHub.
-
----
-
-**Last Updated**: May 2025 | Built with ❤️ using HTML, CSS & JavaScript
