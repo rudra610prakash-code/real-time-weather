@@ -47,13 +47,6 @@ The application follows modern design principles to provide an exceptional user 
 4. **Visual Hierarchy**: Important information (temperature) is prominently displayed
 5. **Accessibility**: Good contrast ratios and readable font sizes
 
-### **Responsive Design**
-
-```
-Desktop: 470px max-width card with full spacing
-Tablet: Adjusts to screen size with 90% width
-Mobile: Optimized layout maintaining usability
-```
 
 ---
 
